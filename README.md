@@ -48,6 +48,9 @@ This project addresses these gaps.
 
 # 4. Research Questions
 
+**“How do different machine learning algorithms compare in terms of carbon emissions, 
+energy consumption, and predictive performance when trained on real-world datasets?”**
+
 **RQ1:** How do classical machine-learning algorithms differ in energy use and CO₂ emissions?  
 **RQ2:** What is the relationship between model runtime and carbon emissions?  
 **RQ3:** Which models offer the best trade-off between predictive accuracy and environmental impact?
