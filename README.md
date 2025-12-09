@@ -1,6 +1,3 @@
-# GreenAI-Carbon-Emission-Benchmarking
-Benchmarking the carbon footprint, runtime, and energy consumption of classical machine-learning models using CodeCarbon and Streamlit.
-
 # Green AI – Carbon Footprint Benchmarking of Machine Learning Models
 
 This project evaluates multiple machine-learning models not only based on accuracy but also on **CO₂ emissions**, **energy consumption**, and **runtime**, using the CodeCarbon tracker.  
