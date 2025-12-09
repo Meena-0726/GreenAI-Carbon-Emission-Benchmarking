@@ -62,10 +62,10 @@ This project addresses these gaps.
 
 # 6. Installation
 
-Install Dependencies
+**Install Dependencies**
 pip install -r requirements.txt
 
-If CodeCarbon fails on Windows:
+**If CodeCarbon fails on Windows:**
 pip install codecarbon --no-build-isolation
 
 # 7. Running the Project
@@ -130,26 +130,16 @@ Emissions ≈ 8.21 × 10⁻⁸ + (5.276 × 10⁻⁶ × Runtime)
 ➡ Runtime is a dominant predictor of CO₂ emissions.
 
 # 12. Statistical Analysis
-Correlation Test
+**Correlation Test**
 r ≈ 1.0, p < 0.001
-
-
 Runtime strongly correlates with emissions.
-
 Linear Regression Results
-
 R² = 1.000
-
 p-value < 0.001
-
 Longer runtime → higher CO₂ footprint
-
 Visuals Produced
-
 Runtime vs CO₂ scatter plot (log scale)
-
 Bubble chart for emission magnitude
-
 Regression line visualization
 
 # 13. Results Summary
@@ -165,77 +155,46 @@ KMeans / GMM	Very low	Minimal emissions	Lightweight models
 
 # 14. Streamlit Dashboard
 
-The dashboard provides:
+**The dashboard provides:**
 
-Emissions summary
+-Emissions summary
+-Energy usage ranking
+-Runtime comparison
+-Emission rate visualization
+-Model-wise efficiency scoring
 
-Energy usage ranking
 
-Runtime comparison
-
-Emission rate visualization
-
-Model-wise efficiency scoring
-
-Include screenshots in GitHub:
-
-Dashboard Home
-
-Emissions Comparison Chart
-
-Efficiency Ranking
-
-Model Summary Table
 
 # 15. Tech Stack
 
-Python
-
-Scikit-Learn
-
-CodeCarbon
-
-Pandas, NumPy
-
-Seaborn, Matplotlib
-
-Statsmodels
-
-Streamlit
-
-Jupyter Notebook
+-Python
+-Scikit-Learn
+-CodeCarbon
+-Pandas, NumPy
+-Seaborn, Matplotlib
+-Statsmodels
+-Streamlit
+-Jupyter Notebook
 
 # 16. Limitations
 
-CodeCarbon accuracy varies by hardware
-
-CPU-only training → cannot generalize to GPU workloads
-
-Air & electricity datasets small → limited variation
-
-Dashboard runs locally (not deployed online)
-
-Real-time carbon intensity not integrated
+-CodeCarbon accuracy varies by hardware
+-CPU-only training → cannot generalize to GPU workloads
+-Air & electricity datasets small → limited variation
+-Dashboard runs locally 
+-Real-time carbon intensity not integrated
 
 # 17. Future Scope
-
-Add GPU-based model comparisons
-
-Train transformer models (BERT, GPT)
-
-Deploy Streamlit dashboard online
-
-Integrate live carbon-intensity APIs
-
-Add automated model selection based on emissions
-
-Expand datasets for stronger generalisability
+-Add GPU-based model comparisons
+-Train transformer models (BERT, GPT)
+-Deploy Streamlit dashboard online
+-Integrate live carbon-intensity APIs
+-Add automated model selection based on emissions
+-Expand datasets for stronger generalisability
 
 # 18. Author
 
 Lakshmi Meena Manivannan
 MSc Data Analytics – National College of Ireland
-
-📧 Email: x23426918@student.ncirl.ie
-
-🔗 LinkedIn: https://www.linkedin.com/in/lakshmi-meena-manivannan/
+Email: x23426918@student.ncirl.ie
+LinkedIn: https://www.linkedin.com/in/lakshmi-meena-manivannan/
