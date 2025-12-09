@@ -203,5 +203,5 @@ The project includes an interactive Streamlit dashboard for exploring:
 
 Lakshmi Meena Manivannan
 MSc Data Analytics – National College of Ireland
-Email: x23426918@student.ncirl.ie
-LinkedIn: https://www.linkedin.com/in/lakshmi-meena-manivannan/
+-Email: x23426918@student.ncirl.ie
+-LinkedIn: https://www.linkedin.com/in/lakshmi-meena-manivannan/
