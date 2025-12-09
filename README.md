@@ -158,16 +158,23 @@ KMeans / GMM	Very low	Minimal emissions	Lightweight models
 
 # 14. Streamlit Dashboard
 
-**The dashboard provides:**
+The project includes an interactive Streamlit dashboard for exploring:
 
--Emissions summary
--Energy usage ranking
--Runtime comparison
--Emission rate visualization
--Model-wise efficiency scoring
+- Model-wise emissions  
+- Training runtime comparisons  
+- Carbon efficiency rankings  
+- Energy consumption summaries  
 
+### 🔹 Dashboard Home
+![Dashboard Home](Streamlitdashboard-image1.png)
 
+### 🔹 Emissions Comparison View
+![Emissions Comparison](StreamlitDashboard-Image2.png)
 
+### 🔹 Model Performance Summary
+![Model Summary](StreamlitDashboard-image3.png)
+
+---
 # 15. Tech Stack
 
 -Python
